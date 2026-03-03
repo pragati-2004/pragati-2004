@@ -77,7 +77,7 @@ Git & GitHub, VS Code, MySQL Workbench, MS Excel, PowerPoint, Word
 
 ## 🏆 Achievements
 
-* Solved **150+ problems on LeetCode**
+* Solved **400+ problems on TakeUForward**
 * 🥇 1st place – Web Development Hackathon 2024 (Programming Club, NIT Jamshedpur)
 * 🥇 1st place – Science Exhibition (BCREC)
 * Qualified Quiz Round – Quizbotics Season 2, LNMIIT Jaipur
@@ -89,7 +89,7 @@ Git & GitHub, VS Code, MySQL Workbench, MS Excel, PowerPoint, Word
 * 📧 Email: [pragati100pr@gmail.com](mailto:pragati100pr@gmail.com)
 * 💼 LinkedIn: [https://www.linkedin.com/in/pragati-priya-3a5aaa283/](https://www.linkedin.com/in/pragati-priya-3a5aaa283/)
 * 🐙 GitHub: [https://github.com/pragati-2004](https://github.com/pragati-2004)
-* 🧠 LeetCode: [https://leetcode.com/u/pragati100pr/](https://leetcode.com/u/pragati100pr/)
+  
 
 ---
 
